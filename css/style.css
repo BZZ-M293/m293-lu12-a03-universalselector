@@ -3,4 +3,21 @@
     padding: 3px;
     border: 1px dotted black;
     text-align: center;
+    font-family: 'Futura', sans-serif;
+}
+
+header, footer {
+    background-color: cornflowerblue;
+}
+
+main * {
+    background-color: lawngreen;
+}
+
+nav {
+    background-color: gold;
+}
+
+nav a {
+    background-color: orangered;
 }
